@@ -1,0 +1,12 @@
+{
+  "name": "永夜：万灵契约",
+  "short_name": "万灵契约",
+  "description": "原创永夜系统流互动角色扮演游戏",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#070a09",
+  "theme_color": "#070a09",
+  "orientation": "any",
+  "icons": [{ "src": "./app-icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }]
+}
+
